@@ -106,7 +106,7 @@ const negativeLoop = [
   "Bạn thích tôi không?"
 ];
 
-const finalText = `Em à, trong cuộc sống của anh, em như một viên ngọc quý mà nhân duyên đã ban tặng. Mỗi ngày trôi qua, anh càng nhận ra giá trị của em không chỉ nằm ở vẻ đẹp bên ngoài mà còn ở tâm hồn ấm áp và trái tim chân thành. Em là nguồn động lực giúp anh vượt qua những khó khăn, là người bạn đồng hành luôn sẵn sàng lắng nghe và chia sẻ. Những khoảnh khắc bên em, từ những tiếng cười đến những giây phút lặng im, đều trở thành những kỷ niệm quý giá mà anh sẽ trân trọng mãi mãi. Em không chỉ là người yêu, mà còn là ánh sáng dẫn đường trong cuộc sống của anh. Anh cảm thấy may mắn và biết ơn vì có em bên cạnh, và anh sẽ luôn nỗ lực để bảo vệ và gìn giữ viên ngọc quý này.`;
+const finalText = `Em à, trong cuộc sống của anh, em như một viên ngọc quý mà nhân duyên đã ban tặng. Mỗi ngày trôi qua, anh càng nhận ra giá trị của em không chỉ nằm ở vẻ đẹp bên ngoài mà còn ở tâm hồn ấm áp và trái tim chân thành. Em là nguồn động lực giúp anh vượt qua những khó khăn, là người bạn đồng hành luôn sẵn sàng lắng nghe và chia sẻ. Những khoảnh khắc bên em, từ những tiếng cười đến những giây phút lặng im, đều trở thành những kỷ niệm quý giá mà anh sẽ trân trọng mãi mãi. Em không chỉ là người anh thương, mà còn là ánh sáng dẫn đường trong cuộc sống của anh. Anh cảm thấy may mắn và biết ơn vì có em bên cạnh, và anh sẽ luôn nỗ lực để bảo vệ và gìn giữ viên ngọc quý này.`;
 
 let questionState = 'askLike';
 let positiveIndex = 0;
